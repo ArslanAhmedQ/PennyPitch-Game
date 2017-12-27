@@ -1,0 +1,118 @@
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+C:\Documents and Settings\751048\Local Settings\Application Data\Temporary Projects\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHigSocre.resources
+G:\Visual Studio 2010\Projects\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+G:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+G:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+G:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+J:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+J:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+J:\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.exe
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.xml
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project PennyPitch.pdb
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.exe
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.pdb
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\bin\Debug\Project PennyPitch.xml
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Home.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Instructions.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PennyPitch.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.PromptHighScore.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.HighScore.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\Project_PennyPitch.Resources.resources
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Grade 11 Semeter 1\Final Project Oindrilla\Project PennyPitch\Project PennyPitch\obj\x86\Debug\GenerateResource.write.1.tlog
